@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, JS, SQL, C#**
 
-- 📫 How to reach me **karl.zenker@bwz-rappi.ch**
+- 📫 How to reach me **bergseehund@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
