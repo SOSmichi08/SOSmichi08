@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm B1TCR4CK3R</h1>
+<h1 align="center">Hi 👋, I'm IMST2023a_QARRL</h1>
 <h3 align="center">A passionate student frontend developer from Switzerland</h3>
 
 - 🔭 I’m currently working on **an AI Chatbot for Telegram**
