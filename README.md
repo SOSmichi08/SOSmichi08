@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm IMST2023a_QARRL</h1>
 <h3 align="center">A passionate student frontend developer from Switzerland</h3>
 
-- 🔭 I’m currently working on **an AI Chatbot for Telegram**
+- 🔭 I’m currently working on **a Portfolio Project**
 
 - 🌱 I’m currently learning **C++, JS, SQL, C#**
 
-- 📫 How to reach me **bergseehund@gmail.com**
+- 📫 How to reach me **karl.zenker@bwz-rappi.ch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
