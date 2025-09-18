@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOSmichi08</h1>
-<h3 align="center">A passionate student frontend developer from Switzerland</h3>
+<h3 align="center">A passionate student developer from Switzerland</h3>
 
 - 🔭 I’m currently working on **a command shell program with custom commands using C#**
 
