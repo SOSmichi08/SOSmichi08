@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SOSmichi08</h1>
 <h3 align="center">A passionate student developer from Switzerland</h3>
 
-- 🔭 I’m currently working on **a command shell program with custom commands using C#**
+- 🔭 I’m currently working on **A mobile app with ionic and capacitor**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python, Flutter**
 
 - 📫 How to reach me **karl.zenker@bwz-rappi.ch**
 
