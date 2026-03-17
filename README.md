@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A mobile app with ionic and capacitor**
 
-- 🌱 I’m currently learning **Python, Flutter**
+- 🌱 I’m currently learning **Python, Dart / Flutter**
 
 - 📫 How to reach me **karl.zenker@bwz-rappi.ch**
 
